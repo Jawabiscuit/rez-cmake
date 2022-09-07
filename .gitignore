@@ -1,0 +1,10 @@
+*.pyc
+*~
+*#
+build
+*.org
+*.rxt
+*.exe
+*.msi
+*.zip
+*.7z
